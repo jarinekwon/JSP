@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="js/jquery.js"></script>
+    <script>
+        $(function(){
+           $.ajax({
+        	   url:"js/MOCK_DATA.json"
+        	 , type:"get"
+        	 , datatype:"json"
+        	 , success:function(data) {
+        		 if (data.length > 0) {
+// 				data가 있으면
+					var tb = $("<table/>");
+					for(var i in data){
+						var $id = data[i].id;
+						var $first_name = data[i].first_name;
+						var $last_name = data[i].last_name;
+						var $email = data[i].email;
+						var $gender = data[i].gender;
+						
+						var row = $("<tr/>").append(
+// 								열에 id 값을 넣음
+								  $("<td/>").text($id)
+								, $("<td/>").text($first_name)
+								, $("<td/>").text($last_name)
+								, $("<td/>").text($email)
+								, $("<td/>").text($gender)
+								);
+						tb.append(row);
+// 						반복하면서 행의 값들이 table 태그 안에 들어감
+					}
+					$(".wrap").append(tb);
+// 					tb안에 json 값들이 저장
+// 					json 데이터를 wrap 클래스에 출력
+					
+				}
+        	 }, error:function() {
+//         		error:function -> 생략 가능
+        	 }
+           });
+        });
+    </script>
+</head>
+<body>
+	<div class="wrap">
+	
+	</div>
+</body>
+</html>

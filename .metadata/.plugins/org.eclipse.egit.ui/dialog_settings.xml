@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/jarinekwon/Java_240524.git"/>
+		<item value="https://github.com/jarinekwon/Java_240522.git"/>
+		<item value="https://github.com/jarinekwon/Java_240520.git"/>
+		<item value="https://github.com/jarinekwon/Java_240517.git"/>
+		<item value="https://github.com/jarinekwon/Java_240513.git"/>
+		<item value="https://github.com/jarinekwon/java_240510.git"/>
+		<item value="https://github.com/jarinekwon/java_240508.git"/>
+		<item value="https://github.com/jarinekwon/java_240503.git"/>
+		<item value="https://github.com/jarinekwon/java_240502.git"/>
+		<item value="https://github.com/jarinekwon/java_240501.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="jarinekwon &lt;kgamgak@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="jarinekwon &lt;kgamgak@gmail.com&gt;"/>
+		<item value="GGG &lt;GGG@DESKTOP-8N3GG4O&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\dev\github\java_240422\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\work_java\java_240422\java_240422\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github\java_240422\java_240422\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github2\java_240422\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github2\test\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github_java\java_240422\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github_java\java_240422\java_240423\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github_java\java_240423\java_240423\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github_java\java_240423\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\dev\github_java\java_240502\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="635"/>
+		<item key="DIALOG_Y_ORIGIN" value="223"/>
+		<item key="DIALOG_WIDTH" value="666"/>
+		<item key="DIALOG_HEIGHT" value="458"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="CommitSelectionDialogSection">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="237"/>
+			<item key="DIALOG_Y_ORIGIN" value="190"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+</section>
